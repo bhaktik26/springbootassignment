@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Classroom
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: BHARAT
+Implementation-Vendor-Id: com.online.training
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/Classroom/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
