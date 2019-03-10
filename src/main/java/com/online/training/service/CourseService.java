@@ -35,7 +35,7 @@ public class CourseService {
     }
 
     public List<Course> getCoursesCreatedByProfessor(String professorName) {
-        return null;
+        return courseRepository.findByCreatedBy(professorName);
     }
 
     public Course findCourseByName(String courseName) {
